@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SL Software</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>SL Software</h1>
+        <p>WhatsApp Marketing | IVR Calling | NFC Review Cards | Digital Solutions</p>
+    </header>
+
+    <main>
+        <h2>Welcome to SL Software</h2>
+        <p>We provide professional digital marketing and business automation solutions.</p>
+
+        <h3>Our Services</h3>
+        <ul>
+            <li>WhatsApp Bulk Messaging Software</li>
+            <li>IVR Calling Device</li>
+            <li>NFC Google Review Cards</li>
+            <li>Digital Visiting Cards</li>
+            <li>Website Development</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 SL Software. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
